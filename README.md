@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajh1N2s3Z3l6MmNrNzA3ZWN6ZjlzOW5xbXZ4eWFmcHA3dHkyZjFieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBpUGMmoGM4DVHoRMZ/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://camo.githubusercontent.com/611f447104c5b9197e60877c176abe788a9eae5a37d7b333fcf684a1db58d65e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3565467037367a6873713375772f67697068792e676966" alt="Coding" width="900"/>
 </p>
 
 <p align="left">
