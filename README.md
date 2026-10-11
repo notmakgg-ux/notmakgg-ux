@@ -16,7 +16,7 @@
 
 * 💻 I never tire of discussing **AI** topics
 
-* 🔭 Currently, I'm working on **Voice Calling Agent**
+* 🔭 Currently, I'm working on **Building LLM From Zero**
 
 * 🌱 As of right now, I am learning **MLOps**
 
