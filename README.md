@@ -1,11 +1,11 @@
-# Hi, I'm Malav Kartikey Mevada 👋
+# Hi, I'm Malav 👋
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=notmakgg-ux&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F261610909%3Fu%3D6b72aaf87a57a4994567dc48ba33c1ae3f323f9e%26v%3D4" alt="Malav's GitHub Profile" />
 </p>
 
 <h3 align="center">
-  AI Engineer | LLM Engineering | AI Systems
+  AI Engineer | LLM Engineering | AI Systems | FDE
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, interested in building AI systems that go beyond simple model implementations.
 
-My focus lies at the intersection of machine learning, LLM engineering, and production AI infrastructure.
+My focus lies at the intersection of machine learning, LLM engineering, and production AI infrastructure. I aspire to become an FDE. 
 
 - 🔭 Exploring **LLM internals, RAG systems, and Agentic AI**.
 - ⚙️ Building AI applications with a focus on performance, reliability, and scalability.
@@ -26,7 +26,7 @@ My focus lies at the intersection of machine learning, LLM engineering, and prod
 - 🌱 Learning about distributed inference, AI infrastructure, model evaluation, and deployment.
 - 🤝 Open to collaborating on meaningful AI/ML and open-source projects.
 
-**My goal:** Become an engineer capable of designing and building production-grade AI systems, regardless of which frontier model powers them.
+**My goal:** Become an engineer capable of designing and building production-grade AI systems, regardless of which frontier model powers them. FDE
 
 ---
 
@@ -36,7 +36,6 @@ My focus lies at the intersection of machine learning, LLM engineering, and prod
 |---|---|---|
 | [GPT From Scratch](https://github.com/notmakgg-ux/GPT-build-by-me) | Implementing and experimenting with GPT architecture, including RoPE, RMSNorm, SwiGLU, and model ablations. | Python, PyTorch |
 | [OCR with Async](https://github.com/notmakgg-ux/OCR_with_async) | Exploring asynchronous OCR pipelines for efficient document processing and extraction. | Python, OCR, Async |
-| [AI VBot](https://github.com/notmakgg-ux/AI-Vbot) | AI-powered voice bot project exploring conversational automation. | Python, AI |
 | [FINDME](https://github.com/notmakgg-ux/FINDME) | A Python-based project focused on building practical software solutions. | Python |
 
 ---
