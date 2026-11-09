@@ -1,150 +1,102 @@
-<h1 align="center">
-  Hi, I'm Malav 
-</h1>
+# Hi, I'm Malav Kartikey Mevada 👋
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=notmakgg-ux&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F261610909%3Fu%3D6b72aaf87a57a4994567dc48ba33c1ae3f323f9e%26v%3D4" alt="Malav's GitHub Profile" />
+</p>
 
 <h3 align="center">
-  A passionate AI Systems Engineer
+  AI Engineer | LLM Engineering | AI Systems
 </h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/611f447104c5b9197e60877c176abe788a9eae5a37d7b333fcf684a1db58d65e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3565467037367a6873713375772f67697068792e676966" alt="Coding" width="900"/>
+  Building intelligent systems, exploring the internals of LLMs, and turning AI research into practical engineering solutions.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=notmakgg-ux&label=Profile%20views&color=0e75b6&style=flat" alt="notmakgg-ux"/>
+---
+
+## 🧠 About Me
+
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, interested in building AI systems that go beyond simple model implementations.
+
+My focus lies at the intersection of machine learning, LLM engineering, and production AI infrastructure.
+
+- 🔭 Exploring **LLM internals, RAG systems, and Agentic AI**.
+- ⚙️ Building AI applications with a focus on performance, reliability, and scalability.
+- 🧪 Experimenting with transformer architectures and training language models from scratch.
+- 🌱 Learning about distributed inference, AI infrastructure, model evaluation, and deployment.
+- 🤝 Open to collaborating on meaningful AI/ML and open-source projects.
+
+**My goal:** Become an engineer capable of designing and building production-grade AI systems, regardless of which frontier model powers them.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [GPT From Scratch](https://github.com/notmakgg-ux/GPT-build-by-me) | Implementing and experimenting with GPT architecture, including RoPE, RMSNorm, SwiGLU, and model ablations. | Python, PyTorch |
+| [OCR with Async](https://github.com/notmakgg-ux/OCR_with_async) | Exploring asynchronous OCR pipelines for efficient document processing and extraction. | Python, OCR, Async |
+| [AI VBot](https://github.com/notmakgg-ux/AI-Vbot) | AI-powered voice bot project exploring conversational automation. | Python, AI |
+| [FINDME](https://github.com/notmakgg-ux/FINDME) | A Python-based project focused on building practical software solutions. | Python |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
 </p>
 
-* 💻 I never tire of discussing **AI** topics
+**AI / Machine Learning**
 
-* 🔭 Currently, I'm working on **Building LLM From Zero**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
 
-* 🌱 As of right now, I am learning **MLOps**
+**Backend, Infrastructure & Tools**
 
-* 💬 Get in touch with me about **Python and Agentic AI**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,git,github,linux,vscode" />
+</p>
 
-* 📫 Reach me at **[notmakgg@gmail.com](mailto:notmakgg@gmail.com)**
+**Currently Exploring**
 
-* ⚡ Fun fact: I'm an avid **coffee enthusiast** and always up for a chat about the best brews!
+- Large Language Model Internals
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Multi-Agent Systems
+- Model Fine-tuning (LoRA / QLoRA)
+- MCP & AI Tool Integration
+- LLM Evaluation and Observability
+- Distributed Inference & GPU Infrastructure
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/malav-mevada-b28983278" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="notmakgg-ux"
-      height="30"
-      width="40"
-    />
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=notmakgg-ux&theme=satan" alt="GitHub Contribution Activity" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing AI engineering, LLMs, interesting technical problems, and open-source collaboration.
+
+<p align="center">
+  <a href="https://github.com/notmakgg-ux">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/malav-mevada-b28983278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mak20official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
-<a href="https://pugjs.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-</a>
-
-</p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notmakgg-ux" alt="notmakgg-ux" />
+  <i>Build. Experiment. Understand. Engineer.</i>
 </p>
